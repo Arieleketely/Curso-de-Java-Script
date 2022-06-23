@@ -16,3 +16,5 @@ Forach
 Parecido com Map é um condicional
 
 Filter
+
+Cria um novo array com todos os elementos que passaram no teste implementado pela função fornecida.(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
